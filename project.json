@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-qkc144ey"",
-  ""goal"": ""rule engine for incident triage"",
-  ""language"": ""go"",
-  ""template"": ""go-cli""
+    "name":  "rndproj-qkc144ey",
+    "goal":  "rule engine for incident triage",
+    "language":  "go",
+    "template":  "go-cli"
 }
