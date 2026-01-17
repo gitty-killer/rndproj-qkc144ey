@@ -1,4 +1,2 @@
-# rndproj-qkc144ey
-
-Random ruby project for experiment.
-
+# rndproj-qkc144ey\n\nSmall log summarizer tool.\n
+New-FileDef
